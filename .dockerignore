@@ -1,0 +1,11 @@
+node_modules
+build
+tmp
+.git
+.env
+*.log
+.DS_Store
+coverage
+.nyc_output
+*.md
+tests
